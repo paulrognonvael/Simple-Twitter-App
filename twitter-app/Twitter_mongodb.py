@@ -6,10 +6,10 @@ import pymongo
 
 # Enter your keys/secrets as strings in the following fields
 credentials = {}
-credentials['CONSUMER_KEY'] = "gTNqaBACFiyVNu55OmRdG7Y01"
-credentials['CONSUMER_SECRET'] = "Y9epdkQQMeNYukU75Tn7RE6rZPYuvaWrfSzmbWYW0CGo08zMPw"
-credentials['ACCESS_TOKEN'] = "1175413850679717888-nMQQJDzVclfb4KKZVJHQ7j69yYDEjE"
-credentials['ACCESS_SECRET'] = "p17ZAnkskHpX5Olsv3wybXxLNk1wnfx5DRnEqAxXKgriD"
+credentials['CONSUMER_KEY'] = "xxxxxxxx"
+credentials['CONSUMER_SECRET'] = "xxxxxxxx"
+credentials['ACCESS_TOKEN'] = "xxxxxxxx"
+credentials['ACCESS_SECRET'] = "xxxxxxxx"
 
 # create a MongoClient 
 from pymongo import MongoClient
